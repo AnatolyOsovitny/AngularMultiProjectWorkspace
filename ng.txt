@@ -1,0 +1,5 @@
+
+
+https://angular.io/cli/generate
+
+ng new my-workspace --createApplication="false" --skip-install --skipTests=true --style=less 
